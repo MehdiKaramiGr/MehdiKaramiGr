@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehdiKaramiGr
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.Js
+- 👀 I’m a Full Stack Web Development
+- 🌱 I’m currently Working With React.Js & Node.Js
 - 📫 How to reach me: mehdi.karami.dev@outlook.com or https://mehdikaramigr.github.io/portfolio-mk/
 
 <!---
