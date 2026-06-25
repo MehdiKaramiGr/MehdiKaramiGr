@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehdiKaramiGr
-- 👀 I’m a Full Stack Web Development
-- 🌱 I’m currently Working With React.Js & Node.Js
+- 👀 I’m a Full Stack Software Engineer
+- 🌱 I’m currently Working With React.Js/Next.Js & Node.Js
 - 📫 How to reach me: mehdi.karami.dev@outlook.com
 
 <!---
