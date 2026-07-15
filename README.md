@@ -129,9 +129,9 @@ React Native + BLE application communicating with ESP32 devices.
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🌐 Portfolio: https://YOUR_WEBSITE
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://linkedin.com/in/mehdi-karami-dev
+- 🌐 Portfolio: https://mehdi-karami.vercel.app
+- 📧 Email: mehdi.karami.dev@outlook.com
 
 ---
 
