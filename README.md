@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi Grant</h1>
+<h1 align="center">Hi 👋, I'm Mehdi Karami</h1>
 <h3 align="center">Full-Stack Software Engineer • React • Next.js • Node.js • AI</h3>
 
 <p align="center">
