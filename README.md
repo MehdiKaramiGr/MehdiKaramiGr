@@ -15,7 +15,7 @@ Building modern web applications, AI-powered tools, scalable backends, and autom
 
 ## 👨‍💻 About Me
 
-- 💼 Full-Stack Software Engineer with **8+ years** of experience
+- 💼 Full-Stack Software Engineer with **7+ years** of experience
 - ⚛️ Frontend specialist using **React**, **Next.js**, and **TypeScript**
 - 🚀 Backend experience with **Node.js**, **Express**, **NestJS**, and **Prisma**
 - 🤖 Passionate about AI, automation, and developer tools
