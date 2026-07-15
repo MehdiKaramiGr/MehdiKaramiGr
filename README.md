@@ -6,7 +6,7 @@ Building modern web applications, AI-powered tools, scalable backends, and autom
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/MehdiKaramiGr">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
